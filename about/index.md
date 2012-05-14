@@ -1,24 +1,21 @@
----
+﻿---
 layout: default
-title:  Yibo Chen
+title:  陈逸波
 ---
 
-Current:
+工作经历：
 
- -  Data Analyst at Alibaba Group
+ -  2011 -        数据分析师 at 阿里巴巴金融
 
-Past:
+ -  2010 - 2011   数据分析师 at 华院分析
 
- -  Data Analyst at Hua Analytical Technology
+学习经历:
 
-Education:
+ -  2008 - 2010   理学硕士   浙江大学
+ -  2004 - 2008   理学学士   浙江大学
 
- -  2008 - 2010   Master,  Zhejiang University
+兴趣爱好:
 
- -  2004 - 2008   Bachelor,  Zhejiang University
- 
-Interests:
+ -  数据分析与数据挖掘
 
- -  Data Analysis and Data Mining
-
- -  Riddle
+ -  灯谜
