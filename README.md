@@ -1,1 +1,1 @@
-This is the homepage of Lanfeng Pan. Cloned from https://github.com/JuliaLang/julialang.github.com.
+This is the homepage of Yibo Chen. Cloned from https://github.com/JuliaLang/julialang.github.com.
