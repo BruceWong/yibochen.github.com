@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Yibo Chen
+title:  陈逸波
 ---
 
 Current:
