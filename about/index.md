@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Lanfeng Pan
+title:  Yibo Chen
 ---
 
 Lanfeng Pan is currently a master student. 
