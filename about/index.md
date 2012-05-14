@@ -13,9 +13,9 @@ Past:
 
 Education:
 
- -  2008 - 2010   Master, Mathematics, Zhejiang University
+ -  2008 - 2010   Master, Zhejiang University
 
- -  2004 - 2008   Bachelor, Mathematics, Zhejiang University
+ -  2004 - 2008   Bachelor, Zhejiang University
 
 Interests:
 
