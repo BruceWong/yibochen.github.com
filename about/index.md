@@ -3,9 +3,9 @@ layout: default
 title:  陈逸波
 ---
 
-Current:
+职业:
 
- -  Data Analyst at Alibaba Group
+ -  数据分析师 at 阿里巴巴金融
 
 Past:
 
