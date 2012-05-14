@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: OK我来了
+title: 我来了
 author: <a href="http://yibochen.github.com/">yibo</a>
 ---
 
