@@ -3,20 +3,10 @@ layout: default
 title:  Yibo Chen
 ---
 
-Lanfeng Pan is currently a master student. 
+Current: Data Analyst at Alibaba Group
+
+Past: Data Analyst at Hua Analytical Technology
 
 Education:
-
- -  2010 - 2012   Master, Renmin University of China; 
-
- -  2006 - 2010   Bachelor, Renmin Unviersity of China.
-
-Research Interests:
-
- -  Exploratory Data Analysis especially Co-Clustering and Semi-Supervised Clustering;
-
- -  Nonnegative Matrix Factorization;
-
- -  Text Mining.  
-
-Email: panlanfeng /a t/ g m a i l . c o m
+ -  2008 - 2010   Master, Zhejiang University
+ -  2004 - 2008   Bachelor, Zhejiang University
