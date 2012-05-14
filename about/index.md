@@ -3,14 +3,10 @@ layout: default
 title:  Yibo Chen
 ---
 
-Current:
-Data Analyst at Alibaba Group
+Current: Data Analyst at Alibaba Group
 
-Past:
-Data Analyst at Hua Analytical Technology
+Past: Data Analyst at Hua Analytical Technology
 
 Education:
-
  -  2008 - 2010   Master, Zhejiang University
-
  -  2004 - 2008   Bachelor, Zhejiang University
