@@ -26,6 +26,6 @@ title:  陈逸波
 
  -  [豆瓣](http://www.douban.com/people/boni/)
  -  [人人](http://www.renren.com/41021031)
- -  [网易博客](http://chen.yi.bo.blog.163.com)
- -  [新浪微博](http://weibo.com/chenyibo)
- -  [COS论坛](http://cos.name/cn/profile/77051)
+ -  [网易](http://chen.yi.bo.blog.163.com)
+ -  [新浪](http://weibo.com/chenyibo)
+ -  [COS](http://cos.name/cn/profile/77051)
