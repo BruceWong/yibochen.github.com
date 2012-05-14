@@ -3,26 +3,23 @@ layout: default
 title:  陈逸波
 ---
 
-职业:
+职业经历:
 
- -  数据分析师 at 阿里巴巴金融
+ -  2011 - 数据分析师 at 阿里巴巴金融
+ -  2010 - 2011 数据分析师 at 华院分析
 
-Past:
+教育背景:
 
- -  Data Analyst at Hua Analytical Technology
+ -  2008 - 2010   理学硕士   浙江大学
 
-Education:
+ -  2004 - 2008   理学学士   浙江大学
 
- -  2008 - 2010   Master, Zhejiang University
+兴趣爱好:
 
- -  2004 - 2008   Bachelor, Zhejiang University
+ -  数据分析与数据挖掘
 
-Interests:
+ -  灯谜
 
- -  Data Analysis and Data Mining
-
- -  Riddle
- 
-Email:
+电子邮箱:
 
  -  chenyibo.zjumath at gmail.com
