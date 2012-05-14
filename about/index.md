@@ -22,3 +22,6 @@ Interests:
  -  Data Analysis and Data Mining
 
  -  Riddle
+ 
+Email:
+ -  chenyibo.zjumath at gmail.com
