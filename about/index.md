@@ -21,3 +21,6 @@ title:  陈逸波
 电子邮箱:
 
  -  chenyibo.zjumath at gmail.com
+
+在网易的博客:
+ -  [生活也是大事业](http://chen.yi.bo.blog.163.com)
