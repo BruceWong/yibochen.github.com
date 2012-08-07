@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: OK我来啦
 author: <a href="http://yibochen.github.com/">陈逸波</a>
